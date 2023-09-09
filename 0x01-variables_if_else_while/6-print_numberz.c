@@ -8,6 +8,7 @@
 int main(void)
 {
 	int count = 0;
+
 	while (count < 10)
 	{
 		putchar((count % 10) + '0');
