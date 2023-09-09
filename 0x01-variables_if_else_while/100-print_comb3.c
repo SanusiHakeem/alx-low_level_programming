@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main function
- * Description: prints all possible different combinations of two digits.
+ * Description:printing all possible different combinations of two digits.
  * Return : 0
  */
 
