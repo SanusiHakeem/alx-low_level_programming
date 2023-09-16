@@ -2,7 +2,7 @@
 
 /**
 * main- function that returns true if char is in uppercase
-* Returns - 1 true and 0 otherwiser
+* Returns -  1 or 0
 */
 
 int _isupper(int c)
