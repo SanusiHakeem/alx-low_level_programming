@@ -4,7 +4,7 @@
  *@str: string pointer
  *Return: counter
  */
-int print_rev(char *str)
+void print_rev(char *str)
 {
 	char *z = str;
 	int i;
@@ -24,6 +24,4 @@ int print_rev(char *str)
 		i--;
 		count++;
 	}
-
-	return (count);
 }
